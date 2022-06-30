@@ -40,3 +40,6 @@ Exploring the inner workings.
 - [Python Docs](https://docs.python.org/3/index.html)
 - [Python Docs/Howto](https://docs.python.org/3/howto/index.html)
 - [PycodeWeekly newslatter](https://pycoders.com/)
+- [Real Python](https://realpython.com/)
+- [tutorialspoint Python](https://www.tutorialspoint.com/python/index.htm)
+- [Geeks for Geeks Python](https://www.geeksforgeeks.org/python-programming-language/?ref=shm)

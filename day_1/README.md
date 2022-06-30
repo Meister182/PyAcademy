@@ -20,7 +20,9 @@ Learn the tools used to make the wheel.
         - Introducion to Boolean operators (True, False, and, or)
         - Introduction to None, Not, in, is
     - switch
-    - Loops (for, while)
+    - Loops:
+        - for and while
+        - list comprehension
     - List comprehension
     - try, except, finally 
     - Exceptions and Assertions
@@ -36,3 +38,8 @@ Learn the tools used to make the wheel.
     - Everything is an object!
     - dir()
     - dunders quick overview.
+
+---
+- Worth referencing:
+    - I/O operations: rawinput, input, yield
+    - [Built-ins](https://docs.python.org/3/library/functions.html): abs, len, range, eval, ... 

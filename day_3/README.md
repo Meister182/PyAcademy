@@ -11,3 +11,14 @@ Ok, you know how to build wheels, now stop doing that.
 - ## Custom Packages
     - Creating a custom Module
     - Creating a custom Package
+
+---
+- Worth referencing:
+    - [Tkinter](https://docs.python.org/3/library/tkinter.html): Standard Python GUI interface.
+    - [Math](https://docs.python.org/3/library/math.html): Basic math python module.
+    - [Numpy](https://numpy.org/):Package for scientific computing with Python.
+    - [SciPy](https://scipy.org/): Algorithms for scientific computing.
+    - [Pandas](https://pandas.pydata.org/): Fast data analysis and manipulation.
+    - [PyTorch](https://pytorch.org/): Python machine learning framework.
+    - [Flask](https://flask.palletsprojects.com/en/2.1.x/): A web Python microframework.
+    - [Django](https://www.djangoproject.com/): High level Python web framework.

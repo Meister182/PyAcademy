@@ -17,7 +17,7 @@ Learn the tools used to make the wheel.
     - Using variables (fstrings, add, append, ...)
 - ## Flow Control
     - If, else, elif
-        - Introducion to Boolean operators (True, False, and, or)
+        - Introduction to Boolean operators (True, False, and, or)
         - Introduction to None, Not, in, is
     - switch
     - Loops:
@@ -28,9 +28,9 @@ Learn the tools used to make the wheel.
     - Exceptions and Assertions
 - ## File Handling
     - Read, write, append
-    - Using different formats (binary, hexadeciamal, octal)
+    - Using different formats (binary, hexadecimal, octal)
 - ## Functions
-    - Declaring a basic funcion
+    - Declaring a basic function
     - args VS kargs
     - *  VS **
 - ## Classes
@@ -41,5 +41,19 @@ Learn the tools used to make the wheel.
 
 ---
 - Worth referencing:
-    - I/O operations: rawinput, input, yield
+    - I/O operations: raw input, input, yield
     - [Built-ins](https://docs.python.org/3/library/functions.html): abs, len, range, eval, ... 
+
+# Exercises
+
+These exercises serve to test your knowledge and practice concepts that were learned through this day. They have hints to help in case you are blocked and also have the solution. The goal is not to copy the solution but serve as an aid in case you are blocked.
+
+[Basics](https://pynative.com/python-basic-exercise-for-beginners/): Please make the exercises 1 to 10
+
+[Loops](https://pynative.com/python-if-else-and-for-loop-exercise-with-solutions/): Please make the exercises 1 to 5
+
+[Strings](https://pynative.com/python-string-exercise/): Please make the exercises 1 to 5
+
+[Lists](https://pynative.com/python-list-exercise-with-solutions/): Please make the exercises 1 to 5
+
+[Dictionaries](https://pynative.com/python-dictionary-exercise-with-solutions/): Please make the exercises 1 to 5

@@ -2,6 +2,22 @@
 Use better tools to make better wheels.
 > _Sometimes Science Is More Art Than Science._
 
+- ## Flow Control
+    - try, except, finally 
+    - Exceptions and Assertions
+- ## File Handling
+    - Read, write, append
+    - Using different formats (binary, hexadecimal, octal)
+- ## Functions
+    - Declaring a basic function
+    - args VS kargs
+    - *  VS **
+- ## Classes
+    - Declaring and using.
+    - Everything is an object!
+    - dir()
+    - dunders quick overview.
+
 - ## Setup
     - pip
       - Common `pip` [commands](https://www.pythonforbeginners.com/basics/python-pip-usage)
@@ -16,6 +32,11 @@ Use better tools to make better wheels.
     - Logging
     - Json
     - Yaml
+
+---
+- Worth referencing:
+    - I/O operations: raw input, input, yield
+    - [Built-ins](https://docs.python.org/3/library/functions.html): abs, len, range, eval, ... 
 
 ## Exercises
 

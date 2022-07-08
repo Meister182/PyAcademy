@@ -24,25 +24,6 @@ Learn the tools used to make the wheel.
         - for and while
         - list comprehension
     - List comprehension
-    - try, except, finally 
-    - Exceptions and Assertions
-- ## File Handling
-    - Read, write, append
-    - Using different formats (binary, hexadecimal, octal)
-- ## Functions
-    - Declaring a basic function
-    - args VS kargs
-    - *  VS **
-- ## Classes
-    - Declaring and using.
-    - Everything is an object!
-    - dir()
-    - dunders quick overview.
-
----
-- Worth referencing:
-    - I/O operations: raw input, input, yield
-    - [Built-ins](https://docs.python.org/3/library/functions.html): abs, len, range, eval, ... 
 
 # Exercises
 

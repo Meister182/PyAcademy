@@ -6,7 +6,7 @@ Ok, you know how to build wheels, now stop doing that.
     - Re (regex)
     - Requests
     - subprocess
-    - Threading VS Processing
+    - Threading VS MultiProcessing
     - Retry
 - ## Custom Packages
     - Creating a custom Module
@@ -22,3 +22,13 @@ Ok, you know how to build wheels, now stop doing that.
     - [PyTorch](https://pytorch.org/): Python machine learning framework.
     - [Flask](https://flask.palletsprojects.com/en/2.1.x/): A web Python microframework.
     - [Django](https://www.djangoproject.com/): High level Python web framework.
+    - [Multiprocessing](https://docs.python.org/3/library/multiprocessing.html)
+    - [Threading](https://docs.python.org/3/library/threading.html)
+
+## Exercises
+
+[JSON](https://pynative.com/python-json-exercise/): Please make the exercises 1 to 5
+
+[regex](https://holypython.com/advanced-python-exercises/project-regular-expressions-regex/)
+
+[requests](): Use this API https://swapi.dev/ and create a dictionary with the titles of the Star Wars films.

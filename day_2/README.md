@@ -45,5 +45,3 @@ Use better tools to make better wheels.
 [Classes](https://pynative.com/python-object-oriented-programming-oop-exercise/): Please make the exercises 1 to 3
 
 [PIP + VENV] Create a virtualenv, install Flask version 2.0.1, create a requirements.txt with all the pinned Python packages used by Flask.
-
-[JSON](https://pynative.com/python-json-exercise/): Please make the exercises 1 to 5

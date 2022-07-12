@@ -2,6 +2,10 @@
 
 A basic email and password checker program to check access credentials.
 
+# Schedule
+
+Starts at 9h30 and should end at 17h with +1 hour of tolerance (18h)
+
 # Description
 
 As a user I want to run a program/script where I pass an email string and a password string and the script validates if the email is valid and if the password is safe based on the following security rules:
@@ -11,6 +15,7 @@ As a user I want to run a program/script where I pass an email string and a pass
 * Password must have at least one capital letter
 * Password cannot have the email name on the password string.
 * Email must end with a @email.com substring
+* Password cannot have 'password' string
 
 Examples:
 
@@ -26,6 +31,7 @@ email: theknights@montypython.com
 password: NIIiiii666
 ```
 
+Have fun :)
 
 # Requirements
 1. Use ```argparse``` python module to create the script input arguments
@@ -38,3 +44,4 @@ password: NIIiiii666
 8. Functions must have type hints and docstrings explaining what they do
 9. Script must have unit tests and test the basic code functionality
 10. Use ```pylint``` to lint your code to check if it follows a style guide
+11. Create a branch on gitlab PyCademy repository and push your code. We will evaluate and classify each solution.

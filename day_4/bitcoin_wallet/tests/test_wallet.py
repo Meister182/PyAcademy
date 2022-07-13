@@ -3,7 +3,7 @@ from src.wallet import Wallet, InsufficientAmount
 
 def test_default_initial_amount():
     wallet = Wallet()
-    assert wallet.balance == 0
+    assert wallet.balance == -1
 
 def test_setting_initial_amount():
     wallet = Wallet(100)
@@ -18,6 +18,11 @@ def test_wallet_spend_bitcoin():
     wallet = Wallet(20)
     wallet.sell_bitcoin(10)
     assert wallet.balance == 10
+
+def test_wallet_spend_diff_bitcoin():
+    wallet = Wallet(20)
+    wallet.sell_bitcoin(15)
+    assert wallet.balance != 10
 
 def test_wallet_spend_cash_raises_exception_on_insufficient_amount():
     wallet = Wallet()

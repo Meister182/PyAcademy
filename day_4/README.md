@@ -16,3 +16,26 @@ Exploring the innerworkings.
     - Docstrings
     - pytest
     - Linters (black, tox, PEP8)
+
+## Exercises
+
+Copy this functions into a Python file and create tests that coverage all the code.
+
+Run Pylint and make the recommendations that it suggests.
+
+```python
+def isPrime(number):
+    """Return True if *number* is prime."""
+    for element in range(2, number):#Don't use 0 and 1
+        if number % element == 0:
+            return False
+    return True
+
+
+def find_next_prime(number):
+    index=number
+    while True:
+        index += 1
+        if isPrime(index):
+            return index
+```

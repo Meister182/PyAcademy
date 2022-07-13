@@ -1,3 +1,5 @@
+def my_print(i=0):
+    print(f"Print from main_{i}")
 
 print(f"__name__ : {__name__}")
 
